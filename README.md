@@ -1,5 +1,5 @@
 # WebDev Task Submission - Aditya Prakash Gupta (250068)
-## 1. Poject:
+## 1. Project:
 ### Frontend
 - Nextjs framework used
 - Pokemon data application
@@ -11,4 +11,19 @@
 
 [Link to Application](https://pokedex-2-livid.vercel.app/)
 
-## 2. Exercises
+## 2. Exercises (Problems solved on exercism)
+- Two Fer
+- Raindrops
+- Collatz Conjecture
+- Scrabble Score
+- Leap
+- Isogram
+- Luhn
+- Resistor Color
+- Space Age
+- RNA Transcription
+- Reverse String
+- Darts
+- Grains
+- Roman Numerals
+- ISBN Verifier
