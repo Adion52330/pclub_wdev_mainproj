@@ -27,3 +27,10 @@
 - Grains
 - Roman Numerals
 - ISBN Verifier
+
+## 3. Resources Used
+- [Nextjs Docs](https://nextjs.org/docs)
+- [tailwindcss nextjs integratoin](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
+- [inifinite scroll blog](https://medium.com/@ferlat.simon/infinite-scroll-with-nextjs-server-actions-a-simple-guide-76a894824cfd)
+- [Go Language Basics](https://go.dev/tour/flowcontrol/1)
+- [Vercel Deployment](https://vercel.com/)
