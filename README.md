@@ -4,7 +4,7 @@
 - Nextjs framework used
 - Pokemon data application
 - Searching and filtering integrated
-- Infinite scrolling integrated
+- Infinite scrolling integrated using 'react-intersection-observer'
 - Modal opening on clicking the card
 - Typescript used to account for errors and efficiency
 - Tailwindcss usage
