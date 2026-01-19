@@ -8,6 +8,7 @@
 - Modal opening on clicking the card
 - Typescript used to account for errors and efficiency
 - Tailwindcss usage
+- [Link to frontend code](https://github.com/Adion52330/pokedex_2)
 
 [Link to Application](https://pokedex-2-livid.vercel.app/)
 
